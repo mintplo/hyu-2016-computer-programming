@@ -1,5 +1,9 @@
 ## [HYU] 2016_2학기_컴퓨터프로그래밍
 
+2016 2nd Semester Computer Programming Lecture Lab Collections
+
+This Lecture uses C, C++ Language and Microsoft Visual Studio
+
 ## Environment
 - C
 - C++
