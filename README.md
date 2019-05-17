@@ -4,13 +4,17 @@
 
 This Lecture uses C, C++ Language and Microsoft Visual Studio
 
+**This REPO Do not provide HOW TO BUILD & RUN !!**
+
 ## Environment
+
 - C
 - C++
 - Microsoft Visual Studio 2015
 
 ## Lab Tables
-| 날짜   |      실습 내용      |
+
+| Date   |      Lab Contents      |
 |----------|:-------------:|
 | 2016-10-05 | Gauss Elimination + Jordan Elimination Implementation |
 | 2016-10-12 | Matrix Calculation + Transpose |
